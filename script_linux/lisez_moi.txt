@@ -1,0 +1,16 @@
+
+ Vous trouverez ici les exemples de mon livre
+     "Scripts sous Linux"
+ publié aux éditions Eyrolles, deuxième édition.
+
+ Les exemples sont répartis dans des sous-répertoires correspondant
+ aux numéros de chapitres.
+
+ Dans les répertoires où se trouvent des fichiers de code source en
+ langage C, un fichier Makefile permet de les compiler automatiquement
+ en appelant 'make' en ligne de commande.
+
+
+-- 
+Christophe Blaess
+http://www.blaess.org/

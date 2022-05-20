@@ -1,0 +1,28 @@
+	xmin = read ()
+	ymin = read ()
+	xmax = read ()
+	ymax = read ()
+	nmax = read ()
+	nb_col = read ()
+	nb_lig = read ()
+	nb_cou = read ()
+
+	i = read ()
+	j = read ()
+
+	x0 = i * (xmax - xmin) / nb_col + xmin
+	y0 = j * (ymax - ymin) / nb_lig + ymin
+
+	x = x0
+	y = y0
+
+	for (n = 0; n < nmax; n ++) {
+		if ((x*x + y*y) > 4)
+			break;
+		x1 = x * x - y * y
+		y1 = 2 * x * y
+		x = x1 + x0
+		y = y1 + y0
+	}
+	print ( n * nb_cou / nmax)
+	quit

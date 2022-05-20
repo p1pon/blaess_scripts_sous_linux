@@ -1,0 +1,75 @@
+Received: from zork.zork.net ([208.41.174.68])
+	by front4m.grolier.fr (8.9.3/No_Relay+No_Spam_MGC990224) with ESMTP id SAA14651;
+	Fri, 23 Mar 2001 18:19:23 +0100 (MET)
+Received: from localhost (zork.zork.net) [127.0.0.1] (user23731)
+	by zork.zork.net with esmtp (Exim 3.12 #1 (Debian))
+	id 14gUa3-0004nZ-00; Fri, 23 Mar 2001 08:38:27 -0800
+Received: from dsl081-067-005.sfo1.dsl.speakeasy.net (renegade) [64.81.67.5] 
+	by zork.zork.net with esmtp (Exim 3.12 #1 (Debian))
+	id 14gUZv-0004mk-00; Fri, 23 Mar 2001 08:38:19 -0800
+Received: from zbrown by renegade with local (Exim 3.12 #1 (Debian))
+	id 14gUZu-0004cv-00; Fri, 23 Mar 2001 08:38:18 -0800
+To: ktdistrib@zork.net
+Subject: Kernel Traffic #112 by Zack Brown
+Cc: kcdistrib@zork.net
+Message-Id: <E14gUZu-0004cv-00@renegade>
+From: zbrown@tumblerings.org
+Date: Fri, 23 Mar 2001 08:38:18 -0800
+Sender: ktdistrib-admin@zork.net
+Errors-To: ktdistrib-admin@zork.net
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Receive Kernel Traffic by email <ktdistrib.zork.net>
+X-BeenThere: ktdistrib@zork.net
+Status: RO
+X-Mmail: \Recent                                 
+X-M-Uid: 0015509.985367975
+X-Status: O
+
+
+   
+                          Kernel Traffic #112 For 23 Mar                       
+                                                                               
+                                   By Zack Brown                               
+                                                                               
+      linux-kernel FAQ | subscribe to linux-kernel | linux-kernel Archives |   
+    kernelnotes.org | LxR Kernel Source Browser | All Kernels | Kernel Ports | 
+         Kernel Docs | Gary's Encyclopedia: Linux Kernel | #kernelnewbies      
+   
+    Table Of Contents
+   
+      + Default Format
+      + Text Format
+      + Mailing List Stats For This Week
+      + Threads Covered
+        1.  4 Mar - 12  (7       Potential Filesystem Corruption With IBM      
+            Mar         posts)   Travelstar 20G Drive                          
+        2.  7 Mar - 11  (3       Status Of POSIX ACLs                          
+            Mar         posts)                                                 
+        3.  8 Mar - 11  (5       Update To Framebuffer Logos                   
+            Mar         posts)                                                 
+        4.  9 Mar - 12  (16      System Lock-ups In 2.4                        
+            Mar         posts)                                                 
+        5.  9 Mar - 11  (9       Intel Stingy With Docs                        
+            Mar         posts)                                                 
+        6.  10 Mar - 12 (5       Overclocked-CPU Detection Code Removed From   
+             Mar        posts)   Alan's 2.4 Tree                               
+        7.  11 Mar - 14 (10      Config Variable Reorganization                
+             Mar        posts)                                                 
+        8.  12 Mar      (3       IDE Hot-Swapping                              
+                        posts)                                                 
+        9.  13 Mar      (1       Documentation On Kernel Symbols And           
+                        posts)   Modversions                                   
+        10. 13 Mar - 14 (4       Workaround For Netfinity Lockups              
+             Mar        posts)                                                 
+        11. 13 Mar - 15 (7       2.4 Not Backward Compatible With 2.2          
+             Mar        posts)                                                 
+        12. 14 Mar - 16 (8       "Doctor, It Hurts When I Do This..."          
+             Mar        posts)                                                 
+        13. 18 Mar      (4       Finding -pre Releases                         
+                        posts)                                                 
+   
+    Mailing List Stats For This Week
+   
+    We looked at 855 posts in 3580K.
+

@@ -1,0 +1,9 @@
+3i
+Voici la ligne insérée
+et voici la seconde
+.
+4d
+1,$s/bloc/paragraphe/g
+1,$p
+w
+q

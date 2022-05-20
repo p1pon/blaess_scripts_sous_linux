@@ -1,0 +1,6 @@
+Subject: mail 1
+From: emetteur@maison.com
+Reply-To: emetteur@bureau.com
+
+mail 1
+.
