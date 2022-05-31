@@ -1,5 +1,3 @@
-# rm_secure
-
 sauvegarde_rm=~/.rm_saved/
 
 function rm ()
